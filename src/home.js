@@ -73,7 +73,7 @@ const Home = ({detail,view,close,setClose,addtocart}) => {
                 </div>
                 <div className='box'>
                     <div className='img_box'>
-                        <img src="./img/cpu.jpg" alt="cpu"></img>
+                        <img src="../img/cpu.JPG" alt="cpu"></img>
                     </div>
                     <div className='detail'>
                         <p>63 Products</p>
