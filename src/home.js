@@ -106,7 +106,7 @@ const Home = ({detail,view,close,setClose,addtocart}) => {
                     <i class="fa-solid fa-percent"></i>
                     </div>
                     <div className='detail'>
-                        <h3>Member Discount</h3>
+                        <h3>Member discount</h3>
                         <p>On Every Order</p>
                     </div>
                 </div>
