@@ -3,7 +3,7 @@ const Homeproduct=[{
     Title:'Galaxy Tab S6 Lite 10.4-inch Android Tablet 128GB.',
     Cat:"Heat pipe",
     Price:'156',
-    Img:'./img/tp1.jpg'
+    Img:'img/tp1.jpg'
 },
 {
     id:2,
