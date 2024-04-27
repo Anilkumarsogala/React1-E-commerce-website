@@ -49,7 +49,7 @@ const Home = ({detail,view,close,setClose,addtocart}) => {
             <div className='container'>
                 <div className='box'>
                     <div className='img_box'>
-                        <img src="../img/Mobile Phone.png" alt="mobile"></img>
+                        <img src="./img/Mobile Phone.png" alt="mobile"></img>
                     </div>
                     <div className='detail'>
                         <p>23 Products</p>
