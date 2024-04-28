@@ -4,7 +4,7 @@ import Homeproduct from './homeproduct';
 import './home.css';
 const Home = ({detail,view,close,setClose,addtocart}) => {
   return (
-    // below content for full view of the product and closing the product related content
+    //below content for full view of the product and closing the product related content
      <> 
     {
         close?<div className='product_detail'> {/*fast true untadhi html execute avthadhi next wrong button click chesaka false aithdi so html execute kad*/}
