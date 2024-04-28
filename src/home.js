@@ -41,7 +41,7 @@ const Home = ({detail,view,close,setClose,addtocart}) => {
                     <Link to='/product' className='link'>Shop Now<i class="fa-solid fa-arrow-right"></i></Link>
                 </div>
                 <div className='img_box'>
-                    <img src='./img/slider-img.png' alt="sliding"></img>
+                    <img src='/public/img/mobilegoogle.jpg' alt="sliding"></img>
                 </div>
             </div>
         </div>
