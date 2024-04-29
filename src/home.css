@@ -164,7 +164,7 @@
     
 }
 .product .container .box .img_box:hover .icon{
-     transform: translate(-130px); 
+/*      transform: translate(-130px);  */
      /* when you place on product it shows cart add-item and wishlist from left sdie bcz of this and above right:0 and positioning:relative */
 }
 .product .container .box .img_box .icon li{
