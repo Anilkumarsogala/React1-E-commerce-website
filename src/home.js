@@ -4,7 +4,7 @@ import Homeproduct from './homeproduct';
 import './home.css';
 const Home = ({detail,view,close,setClose,addtocart}) => {
   return (
-    //below content for full view of the product and closing the product related content
+    // below content for full view of the product and closing the product related content
      <> 
     {
         close?<div className='product_detail'> {/*fast true untadhi html execute avthadhi next wrong button click chesaka false aithdi so html execute kad*/}
@@ -73,7 +73,7 @@ const Home = ({detail,view,close,setClose,addtocart}) => {
                 </div>
                 <div className='box'>
                     <div className='img_box'>
-                        <img src="https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?cs=srgb&dl=pexels-fotios-photos-1092644.jpg&fm=jpg" alt="cpu"></img>
+                        <img src="./img/cpu.jpg" alt="cpu"></img>
                     </div>
                     <div className='detail'>
                         <p>63 Products</p>

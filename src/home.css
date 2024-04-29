@@ -132,6 +132,7 @@
 }
 .product .container .box{
     padding: 10px 20px;
+    /* you can see cart and love symbol eye symbol can overide on it you can on the results then use overflow:hidden */
     overflow: hidden;
     width: 280px;
     height:380px;

@@ -30,7 +30,7 @@ const nav = ({searchbtn}) => {
                         <i class="fa-regular fa-user"></i>
                         </div>
                             <p>Hello,{user.name}</p>  {/* user.name for the your login name comes from auth0 */}
-                    </div>
+                        </div>
                       }
                          {/* if isAuthenticated is false then it shows only wishlist and car items symbols not data below 2 links */}
                     <div className='second_icon'>
