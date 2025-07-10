@@ -15,7 +15,7 @@ HTML5 – Markup structure
 CSS3 – Styling and layout
 JavaScript (ES6+) – Dynamic interactions
 # Live Demo Video
-👉 [Watch Demo Video on Google Drive]:- https://drive.google.com/file/d/1jSTb_ZlRVzLHYxzPjNUZ2ktns_9zUIhA/view?usp=sharing
+👉 [Watch Demo Video on Google Drive]:- https://drive.google.com/file/d/1syA5_SrRoSmINQ9CtZGm4xpDlZG7D6QV/view?usp=sharing
 
 # Previw
 ![Shofy E-commerce](https://github.com/user-attachments/assets/da6a56e2-29d4-481a-89e8-bc8bd0ad8435)
