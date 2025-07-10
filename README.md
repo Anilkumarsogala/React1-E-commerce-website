@@ -2,18 +2,23 @@
 Shofy is a simple and modern e-commerce frontend web application built using React.js, HTML, CSS, and JavaScript. It showcases a responsive UI with navigation, product listing, and a clean shopping interface.
 
 # 🔧 Features
- Navbar with links to Home, Product, About, and Contact pages
+Navbar with links to Home, Product, About, and Contact pages
 Product search bar with real-time input
- Wishlist and Cart icons in the header
- Product categories with images
+Wishlist and Cart icons in the header
+Product categories with images
 Hero banner promoting "The Best Notebook Collection 2023"
 Login icon for user authentication (placeholder)
 
-# Built With
+# Technologies used to build this project
 React.js – Component-based architecture
 HTML5 – Markup structure
 CSS3 – Styling and layout
 JavaScript (ES6+) – Dynamic interactions
+# Live Demo Video
+👉 [Watch Demo Video on Google Drive]:- https://drive.google.com/file/d/1jSTb_ZlRVzLHYxzPjNUZ2ktns_9zUIhA/view?usp=sharing
+
+# Previw
+![Shofy E-commerce](https://github.com/user-attachments/assets/da6a56e2-29d4-481a-89e8-bc8bd0ad8435)
 
 # Folder Structure
 bash
